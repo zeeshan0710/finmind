@@ -94,7 +94,8 @@ streamlit run finmind_app.py
 - [x] Progress dashboard
 
 ## Screenshots
-*(Add screenshots of your deployed app here)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4d02e1af-bbbb-43ad-a3a1-7c27295c17dc" />
+
 
 ## Team
 Built for the **INFORMS × Zolve Hackathon**, April 2026.
